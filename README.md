@@ -5,6 +5,6 @@ Python script that automates stuff
 
 for example: 
 python ytdl.py https://www.youtube.com/watch?v=imN-vhi5ZWQ
-
+reference: https://www.youtube.com/watch?v=vEQ8CXFWLZU&t=665s
 
 
